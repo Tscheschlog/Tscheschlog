@@ -9,7 +9,7 @@
   Hi, I am Christopher Tscheschlog! A pragmatic programmer from Pennsylvania
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Florida Gulf Coast University's Software Engineering Department
+  👨‍🎓 I have a Bachelor's degree from Florida Gulf Coast University in Software Engineering
   <br>
   💻 I love Writing code, building hardware and learning anything inbetween 😊
   <br>
